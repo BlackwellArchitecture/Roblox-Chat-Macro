@@ -1,0 +1,17 @@
+{
+  "hotkey": "F8",
+  "chat_key": "/",
+  "always_on_top": true,
+  "master_interval_enabled": true,
+  "master_interval_ms": 1000,
+  "send_method": "clipboard",
+  "focus_delay_ms": 70,
+  "loop_mode": "once",
+  "repeat_count": 3,
+  "messages": [
+    {
+      "text": "Test custom message",
+      "interval_ms": 999
+    }
+  ]
+}
